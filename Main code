@@ -1,5 +1,5 @@
 // Constants
-const API_KEY = "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";
+const API_KEY = "OPENAI_API_KEY";
 const MODEL_TYPE = "gpt-3.5-turbo"; //chatGPT model
 
 // Creates a custom menu in Google Docs
